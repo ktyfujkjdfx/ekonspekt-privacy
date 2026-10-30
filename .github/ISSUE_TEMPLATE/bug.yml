@@ -1,0 +1,35 @@
+name: Ошибка
+description: Что-то работает не так, как ожидалось
+labels: [ошибка]
+body:
+  - type: markdown
+    attributes:
+      value: Не указывайте пароли, ФИО и ссылки на свои попытки – раздел обращений открыт всем.
+  - type: textarea
+    id: what
+    attributes:
+      label: Что произошло
+      description: Что вы сделали и что увидели.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Что ожидали
+  - type: input
+    id: version
+    attributes:
+      label: Версия расширения
+      placeholder: 1.0.2
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Браузер
+      options: [Chrome, Яндекс.Браузер, Edge, Opera, Firefox, Другой]
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Снимок экрана
+      description: Перетащите сюда изображение. Скройте на нём личные данные.
