@@ -8,7 +8,7 @@
 
 Расширение для браузера, которое превращает тест или лекцию электронного курса на Moodle<br>в чистый, структурированный текст. Одним нажатием.
 
-**[Установить для Firefox](https://addons.mozilla.org/ru/firefox/addon/ekonspekt/)**&nbsp;&nbsp;·&nbsp;&nbsp;Chrome Web Store — скоро&nbsp;&nbsp;·&nbsp;&nbsp;[Конфиденциальность](PRIVACY.md)
+**[Установить для Chrome](https://chromewebstore.google.com/detail/dmknldkgldhkpgmpdjfnipeecbmlinpb)**&nbsp;&nbsp;·&nbsp;&nbsp;**[Установить для Firefox](https://addons.mozilla.org/ru/firefox/addon/ekonspekt/)**&nbsp;&nbsp;·&nbsp;&nbsp;[Конфиденциальность](PRIVACY.md)
 
 <br>
 
@@ -136,7 +136,7 @@
 | Браузер | |
 |---|---|
 | Firefox | [addons.mozilla.org](https://addons.mozilla.org/ru/firefox/addon/ekonspekt/) |
-| Chrome, Яндекс.Браузер, Edge, Opera | Chrome Web Store — версия на проверке у магазина |
+| Chrome, Яндекс.Браузер, Edge, Opera | [Chrome Web Store](https://chromewebstore.google.com/detail/dmknldkgldhkpgmpdjfnipeecbmlinpb) |
 
 После установки обновите страницу теста. Кнопки появятся у названия.
 
@@ -167,7 +167,7 @@
 - Keeps questions available even after the review is closed.
 - No servers, no analytics, no ads. Everything stays in your browser.
 
-Available for [Firefox](https://addons.mozilla.org/ru/firefox/addon/ekonspekt/). The Chrome Web Store release is under review. The interface is in Russian.
+Available in the [Chrome Web Store](https://chromewebstore.google.com/detail/dmknldkgldhkpgmpdjfnipeecbmlinpb) and for [Firefox](https://addons.mozilla.org/ru/firefox/addon/ekonspekt/). The interface is in Russian.
 
 </details>
 
